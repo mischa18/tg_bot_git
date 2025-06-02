@@ -1,0 +1,2 @@
+conda deactivate
+conda activate tg_bot_pp
